@@ -1,0 +1,41 @@
+.to {
+    background-color: rgb(11, 109, 189);
+}
+
+.megnevezes {
+    background-color: rgba(24, 71, 158, 0.808);
+    
+}
+
+.velencei {
+    background-color: gray;
+}
+
+.main {
+    background-color: rgb(62, 98, 216);
+}
+
+#piros {
+    color: rgb(172, 9, 9);
+}
+ 
+
+
+tbody {
+    color: rgb(3, 38, 61);
+}
+
+tfoot {
+    color: rgb(3, 38, 61) ;
+}
+
+table {
+    margin: auto;
+    width: auto;
+    border: 3px solid grey;
+    border-radius: 5px;
+}
+
+table td {
+    border-radius: 3px;
+}
